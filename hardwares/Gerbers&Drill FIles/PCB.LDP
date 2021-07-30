@@ -1,4 +1,0 @@
-Layer Pairs Export File for PCB: C:\Users\Yao Zijie\Desktop\电子制作\我的项目\OPL2LPT Replica\PCB Project\PCB.PcbDoc
-LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pcb-roundholes-plated.txt|DrillLayers=gtl,gbl
-LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=pcb-slotholes-plated.txt|DrillLayers=gtl,gbl
-LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=pcb-roundholes-nonplated.txt|DrillLayers=gtl,gbl
